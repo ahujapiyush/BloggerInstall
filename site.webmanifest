@@ -1,0 +1,23 @@
+   {
+    "name": "Newsntrick",
+    "short_name": "Newsntrick",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-KOGYhG5oeyo/YO8cnKyDfoI/AAAAAAACP9k/pz8JnEENrPMF5rZyGw6BspwtBUV5rDDIQCLcBGAsYHQ/s192/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-wFkDiY9cXZw/YO8cnPnkHdI/AAAAAAACP9g/x1ynS1j4RsYqMj55B6CfsELms99dljzawCLcBGAsYHQ/s512/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.newsntrick.in"
+}
